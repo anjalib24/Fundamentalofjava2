@@ -1,0 +1,38 @@
+Increment and Decrement Operators:
+
+These operators are used to increase or decrease the value of a variable by 1. They come in two forms: prefix and postfix.
+
+1. Increment Operator (`++`):
+   - **Prefix (`++variable`)**: Increments the value before using it in an expression.
+   - **Postfix (`variable++`)**: Increments the value after using it in an expression.
+
+2. Decrement Operator (`--`):
+   - Prefix (`--variable`): Decrements the value before using it in an expression.
+   - Postfix (`variable--`): Decrements the value after using it in an expression.
+
+Examples:
+
+java
+public class IncrementDecrementExample {
+    public static void main(String[] args) {
+        int a = 5;
+        int b = 10;
+
+        
+        int result1 = ++a; 
+
+        // Postfix increment
+        int result2 = b++; // b is used as 10, then incremented to 11
+
+        // Prefix decrement
+        int result3 = --a; // a is decremented to 5, result3 is 5
+
+        // Postfix decrement
+        int result4 = b--; // b is used as 11, then decremented to 10
+
+        System.out.println("Prefix Increment: " + result1); // Output: 6
+        System.out.println("Postfix Increment: " + result2); // Output: 10
+        System.out.println("Prefix Decrement: " + result3); // Output: 5
+        System.out.println("Postfix Decrement: " + result4); // Output: 11
+    }
+}

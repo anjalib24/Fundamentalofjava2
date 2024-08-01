@@ -1,0 +1,1 @@
+Static typing requires specifying variable types at compile-time, providing early error detection (e.g., Java). Dynamic typing determines variable types at runtime, offering flexibility but potential runtime errors (e.g., Python). Static typing ensures type safety before execution, while dynamic typing adapts to variable types as the program runs.

@@ -1,0 +1,1 @@
+In Java, identifiers are names for variables, methods, classes, etc. They start with a letter, underscore, or dollar sign, and can include letters, digits, underscores, or dollar signs. Java identifiers are case-sensitive, cannot be keywords, and follow naming conventions like camelCase for methods and variables.

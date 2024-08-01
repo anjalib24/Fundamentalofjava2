@@ -1,0 +1,12 @@
+In Java, primitive data types are the basic types of data that are not objects. They include:
+
+1. byte: 8-bit integer.
+2. short: 16-bit integer.
+3. int: 32-bit integer.
+4. long: 64-bit integer.
+5. float: 32-bit floating-point number.
+6. double: 64-bit floating-point number.
+7. char: 16-bit Unicode character.
+8. boolean: Represents `true` or `false`.
+
+These types are used for simple values and are more efficient than objects.

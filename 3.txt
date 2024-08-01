@@ -1,0 +1,25 @@
+
+To assign a value to a variable in Java, follow this syntax:
+
+
+variableName = value;
+
+
+Here’s a step-by-step example:
+
+1. Declare the Variable: Specify the type and name.
+
+   int age;
+   
+
+2. Assign a Value**: Use the assignment operator (`=`).
+   
+   age = 25;
+
+
+Alternatively, you can declare and assign a value in one line:
+
+
+int age = 25;
+
+This assigns the value `25` to the variable `age`.

@@ -1,0 +1,1 @@
+In Java, a variable is a container that holds data values. Each variable has a type, which determines the kind of data it can store (e.g., int, double, String). Variables must be declared before they are used, specifying both the type and the name.
